@@ -1,0 +1,45 @@
+@CHARSET "UTF-8";
+
+
+h1{
+	margin:0 auto; 
+	color: #ffffff;	
+}
+
+h2{
+	color: #0000ff;	
+}
+#head{
+	position: relative ;
+	vertical-align:middle;
+	align-padding: center;
+	background:#0B3B69;
+	text-align:center;
+	height:70px;
+	width:100%	
+}
+
+#menu{
+	position: relative;
+
+}
+#corpo{
+	position: relative;
+	width: 100%;
+	
+}
+#rodape{
+	
+}
+#login{
+	position: absolute;
+	width: 450px;
+	height: 370px;
+	top:110px;
+	right: 400px;
+	background:#ffffff;
+}
+#center{
+	padding-top: 25%;
+	padding-left: 70px;
+}
